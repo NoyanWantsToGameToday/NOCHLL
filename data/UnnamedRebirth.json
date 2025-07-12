@@ -2,7 +2,7 @@
     "id": 111647935,
     "name": "Unnamed Rebirth",
     "author": "Noyan",
-    "creators": [Noyan],
+    "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://youtu.be/Vwxx9J41FZQ",
     "percentToQualify": "34",
@@ -10,3 +10,10 @@
     "records": [
     ]
 }
+
+//         {
+//            "user": "Sample_Victor_1",
+//            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+//            "percent": 100,
+//            "hz": 360
+//        }
